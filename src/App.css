@@ -1,6 +1,14 @@
+:root{
+  --dark-red: #8D0801;
+  --engineering-orange: #BF0603;
+  --melon: #FCB1A6;
+  --pale-dogwood: #FFDCCC;
+  --floral-white: #FFF9EC;
+}
+
 *{
   font-family: Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  
+  box-sizing: border-box;
 }
